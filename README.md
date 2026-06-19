@@ -1,6 +1,7 @@
 ## 🏗️ Kubernetes Cluster Architecture Overview
 
 This repository demonstrates a production-grade Kubernetes cluster setup, separated into a centralized management layer (Control Plane) and an isolated execution layer (Data Plane).
+<img width="1163" height="912" alt="k8s-architecture png" src="https://github.com/user-attachments/assets/ff74b65a-1e05-4e0a-b528-cc6d001abd86" />
 
 ### 🧠 Control Plane (Master Node)
 The administrative brain of the cluster, responsible for maintaining the desired state, scheduling workloads, and managing global configurations.
